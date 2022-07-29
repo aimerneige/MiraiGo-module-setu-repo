@@ -1,5 +1,9 @@
 # MiraiGo-module-setu-repo
 
+archived, use this:
+
+<https://github.com/yukichan-bot-module/MiraiGo-module-setu-repo>
+
 ID: aimerneige.test.setu
 
 Module for [MiraiGo-Template](https://github.com/Logiase/MiraiGo-Template)
